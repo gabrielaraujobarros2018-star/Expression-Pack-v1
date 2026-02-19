@@ -17,3 +17,11 @@ Good part:
 
 - It is Royalty-free
 - 6 Packs for different styles
+
+---
+
+idea: Pack 6 could be integrated in Lumen OS and Palikey.
+
+Pack 6 Image (so you don't get confused):
+
+![Pack 6](/packs/pack6.jpg)
